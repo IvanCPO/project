@@ -1,0 +1,7 @@
+El tamaño del mail formato json es de 555 bytes y el del cml 716 bytes.
+Asi descubrimos que Json equivale al 77,51% de xml
+
+
+
+11.)
+Yo creo que la respuesta es la del numero 4 por que es donde se genera y no hay prefijos para indicar que sea tambien el principal.
